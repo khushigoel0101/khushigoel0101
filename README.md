@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Khushi Goel 👋
 
-<!--
-**khushigoel0101/khushigoel0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer & Problem Solver
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves building clean, efficient, and scalable applications. I enjoy tackling complex algorithmic challenges and turning ideas into reality through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, JavaScript, TypeScript |
+| **Frameworks & Libraries** | React, Node.js, Express, FastAPI |
+| **Databases & Tools** | PostgreSQL, MongoDB, Git, Docker, AWS |
+| **Specialized Interests** | Competitive Programming, Data Structures & Algorithms, AI/ML |
+
+---
+
+### 📈 What I'm Up To
+
+* 🔭 **Current Focus:** Optimizing backend architectures and diving deeper into system design.
+* 🧠 **Sharpening Skills:** Active in competitive programming and solving array/matrix optimization problems.
+* 🎨 **Side Projects:** Experimenting with AI-driven image modification tools and automation scripts.
+* 🌱 **Learning:** Exploring advanced cloud infrastructure and Kubernetes.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushigoel0101&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigoel0101&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-[Your_Name]-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+> "The best error message is the one that never shows up." 💻
