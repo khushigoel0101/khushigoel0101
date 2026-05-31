@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khushi Goel 👋</h1>
 
 <p align="center">
-  <em>Software Engineer · Full-Stack Developer · Competitive Programmer</em>
+  <em>Software Engineer · Full-Stack Developer </em>
 </p>
 
 <p align="center">
@@ -69,12 +69,5 @@ I'm a passionate developer who loves building clean, efficient, and scalable app
 
 ---
 
-### 🏆 Competitive Programming
 
-- ⚡ Active on **LeetCode**, **Codeforces**, and **CodeChef**
-- 🎯 Focused on **Data Structures**, **Graphs**, **Dynamic Programming**, and **System Design**
-- 🏅 Preparing for upcoming hackathons and technical interviews
-
----
-
-> *"The best error message is the one that never shows up."* 💻
+> *"DEBUGGING THROUGH LIFE ."* 💻
