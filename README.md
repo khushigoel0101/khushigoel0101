@@ -11,9 +11,9 @@ I'm a passionate developer who loves building clean, efficient, and scalable app
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, C++, JavaScript, TypeScript |
-| **Frameworks & Libraries** | React, Node.js, Express, FastAPI |
-| **Databases & Tools** | PostgreSQL, MongoDB, Git, Docker, AWS |
-| **Specialized Interests** | Competitive Programming, Data Structures & Algorithms, AI/ML |
+| **Frameworks & Libraries** | React, Node.js, Express |
+| **Databases & Tools** | PostgreSQL, MongoDB, Git, Docker |
+| **Specialized Interests** | Competitive Programming, Data Structures & Algorithms, FullStack Development|
 
 ---
 
@@ -38,10 +38,10 @@ I'm a passionate developer who loves building clean, efficient, and scalable app
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-[Your_Name]-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/khushi-goel4182" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-[Khushi]-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kgoel286@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
