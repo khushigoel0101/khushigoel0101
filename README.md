@@ -27,9 +27,10 @@ I'm a passionate developer who loves building clean, efficient, and scalable app
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushigoel0101&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigoel0101&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180" />
+  <p align="left">
+  <img src="https://github-readme-stats-eight-omega.vercel.app/api?username=khushigoel0101&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-eight-omega.vercel.app/api/top-langs/?username=khushigoel0101&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180" />
+</p>
 </p>
 
 ---
