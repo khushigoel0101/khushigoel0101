@@ -19,11 +19,10 @@ I'm a passionate developer who loves building clean, efficient, and scalable app
 
 ### 📈 What I'm Up To
 
-* 🔭 **Current Focus:** Optimizing backend architectures and diving deeper into system design.
-* 🧠 **Sharpening Skills:** Active in competitive programming and solving array/matrix optimization problems.
-* 🎨 **Side Projects:** Experimenting with AI-driven image modification tools and automation scripts.
-* 🌱 **Learning:** Exploring advanced cloud infrastructure and Kubernetes.
-
+* 🔭 **Current Focus:** Scaling real-time backend communication using Socket.IO and optimizing MongoDB data models.
+* 🧠 **Data Structures & Algorithms:** Actively practicing DSA and refining problem-solving skills for upcoming hackathons and technical interviews.
+* 🎨 **AI Integration:** Enhancing full-stack applications by integrating open-source LLM APIs to automate complex workflows.
+* 🌱 **Learning:** Moving beyond basic deployment to explore cloud optimization, backend caching strategies, and robust system architectures.
 ---
 
 ### 📊 GitHub Stats
