@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Gmail-kgoel286%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=khushigoel0101&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
