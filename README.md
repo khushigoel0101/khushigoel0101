@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khushi Goel 👋</h1>
 
 <p align="center">
-  <em> Final year Btech student </em>
+  <em> Final year Btech student (Computer Science and Engineering) </em>
 </p>
 
 <p align="center">
