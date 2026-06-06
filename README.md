@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khushi Goel 👋</h1>
 
 <p align="center">
-  <em>Software Engineer · Full-Stack Developer </em>
+  <em> Final year Btech student </em>
 </p>
 
 <p align="center">
