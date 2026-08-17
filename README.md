@@ -58,15 +58,14 @@ I'm a passionate developer who loves building clean, efficient, and scalable app
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushigoel0101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushigoel0101&theme=tokyonight" height="170" alt="GitHub Profile Details" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigoel0101&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushigoel0101&theme=tokyonight" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khushigoel0101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushigoel0101&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
-
 ---
 
 
